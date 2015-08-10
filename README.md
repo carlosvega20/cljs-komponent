@@ -5,7 +5,9 @@ UI component to create: carousel, panels, tabs, pagination, slider.
 
 Leiningen
 
+<!-- TODO: REMOVED WHEN CONJARS WORKS
 [![Leiningen version](http://clojars.org/cljs-komponent/latest-version.svg)](http://clojars.org/cljs-komponent)
+-->
 
 ## License
 
